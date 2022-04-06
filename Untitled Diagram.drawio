@@ -1,1 +1,239 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T07:35:32.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="qpG69vszXffcYcQGq9E0" version="17.4.0" type="github" pages="2"><diagram id="cdFLFHhvs3WtqILZuEGL" name="E Ticket">5Vpbc5s4FP41fgzDTQIenTTb3dlk4onTSfuUkUEFbQExshyb/fWVjAABCfXWiWm9fejofEhCOud854Izc66y3UeGiuSWRjid2Wa0mzkfZrYdeL74XwJlBVjQBRUSMxIprAWW5F+sQFOhGxLhdWcipzTlpOiCIc1zHPIOhhij2+60rzTtvrVAMR4AyxClQ/SRRDypUB+YLf4nJnFSv9ky1ZMM1ZMVsE5QRLca5FzPnCtGKa9G2e4Kp1J5tV6qdX+88rQ5GMM5P2TB80X+Nw92iXO3ALeBB737p+zCrnZ5RulGXfiBoQjfolxcLJM7V2fnZa0QcY1CDsMyJXmEmTNzLrcJ4XhZoFA+2ApHEFjCs1RIlhiu6EbMjG5WDYDCbzGT6N2Gi22wwteV+S0gxupgmHG8e/XGVqNH4YCYZpizUkypvQ8oX6udz7IMYLb/LLXjtjUsVMZKNJv6CkPKleLmRa22xUAp/L8o3xlof6BuHAl3VCJlPKExzVF63aKXrNKueG4KqZ1zQ2mh9PoP5rxU3EIbTrvmyam23R5pN1FAdSx5lnFTiKPTDQvxyKXVnTliMeYj88DLpmU4RZw8d8/xkmX2S+eMoVKbUFCS87W280ICrce4XsdhXGiYANoQer4LoW/aXYL1Flu1PQ9ZLQbV4Vr3aW758x41dKg9ndmrLN5k6TzklAkbS6oREfhu0AqnC7omnNBcTFlRzmmmTZinJJYPOO3xnFZkvmpCsfk2PLaNLo+BAXS9wiGNnRdoDN+Nxu7/kMbgQBrDKWh8HI+dPo9dwzZdy/N8AF0XOPD9eQwGHnUtxAcSfsPyoJ/+GjjY8eytQ0K2i2UpZ6zQmoRGRFD8tPfNJ7Yn9eW+toNvw2zLNbsZOjCCQDMUGDC7qa9OQ+2hIc6f2vBAageTZOg+tcfIOVgN+tQ2OwWheQpuw3Fuf0Qcb1F5JgR3YJfgMnVr1rLciQnuD4yxXN4vBXKPC8GxmQ1RJtWYr9ZFo5Hf3iqe1bXKRd3iTBdoJ4mreEf4Z7ncAEr6ojaT4w87XSg1YYEZEfcWdbXCcqEDbSMpfqnfIYV2q71U6lJ/s9MG++DAYO9PEexhL9iLTsDrNPD+aLT3foFobw/D/flXEIc6lfVKmDqtVwHfsHW/GC8hPLsbO/0TtPXBeMkwX5xLPwCcqSt+Z/hFdAq+viEZ61z/QzY6x7LxKMXXx9QU/0jZ15RupSLyWH4lPjMn1z5L62nJDKYuxrxfggOnzVn1jwE/pIk9Rc7yeznLAr2fMkZzVtArhEZXv08Kq9Xb+zRN8visEpgHev1uV9GmP3l+c6agctsg6e1R2xAN2yNgt61Uv0N6Q9Y7p2L9cUYbkmf+cHcra8CGQ2vMnkl4Ljmy/4XCguapcqQQ2x/lq/DX/mmDc/0d</diagram><diagram id="MNASLZrVfX2XZWR_6Hok" name="Page-2">ddG9DoMgEADgp2FH6I+7tXXp5NCZyFVI0DNIo+3TVwPWEtuFHN8dHDkIz5rxYkWnrijBEEblSPiJMHZM2bTO8PSw4wcPtdXSU7JCqV8QkAZ9aAl9VOgQjdNdjBW2LVQuMmEtDnHZHU3ctRM1bKCshNnqTUunvKZ7unoBulZL54SGTCOW4gC9EhKHL+I54ZlFdD5qxgzMPLtlLv7c+U/28zALrftxYArWu6dN9EE8fwM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-06T07:48:08.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="pZokaSxxi7YCkIMphVgq" version="17.4.0" type="github" pages="6">
+  <diagram id="cdFLFHhvs3WtqILZuEGL" name="E Ticket">
+    <mxGraphModel dx="782" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v-nKt9xh3OP5M9767R_m-2" value="TradeManagement" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="955" y="111.50000000000011" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="v-nKt9xh3OP5M9767R_m-3" target="v-nKt9xh3OP5M9767R_m-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="47" y="46.05626678466802" />
+              <mxPoint x="123" y="46.05626678466802" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-3" value="Trader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="2.5" y="5.556266784668061" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="v-nKt9xh3OP5M9767R_m-5" target="v-nKt9xh3OP5M9767R_m-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="247" y="46.05626678466802" />
+              <mxPoint x="323" y="44.20417785644536" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-5" value="E Ticket UI" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;" parent="1" vertex="1">
+          <mxGeometry x="140" y="19.99626678466805" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="v-nKt9xh3OP5M9767R_m-6" target="v-nKt9xh3OP5M9767R_m-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="447" y="44.20417785644536" />
+              <mxPoint x="523" y="40.500000000000036" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-6" value="E Ticket Gateway" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5.554177856445314" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-8" value="SSRS Report&amp;nbsp;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;" parent="1" vertex="1">
+          <mxGeometry x="710" y="-80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;noEdgeStyle=1;orthogonal=1;" parent="1" source="v-nKt9xh3OP5M9767R_m-9" target="v-nKt9xh3OP5M9767R_m-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="647" y="22.750000000000018" />
+              <mxPoint x="723" y="40.500000000000036" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="v-nKt9xh3OP5M9767R_m-9" target="v-nKt9xh3OP5M9767R_m-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="647" y="58.25000000000006" />
+              <mxPoint x="720" y="82" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-9" value="E Ticket API" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;" parent="1" vertex="1">
+          <mxGeometry x="535" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v-nKt9xh3OP5M9767R_m-10" target="v-nKt9xh3OP5M9767R_m-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-10" value="Worflow engine" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;" parent="1" vertex="1">
+          <mxGeometry x="535" y="111.00000000000009" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" parent="1" source="v-nKt9xh3OP5M9767R_m-11" target="v-nKt9xh3OP5M9767R_m-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="847" y="151.5000000000001" />
+              <mxPoint x="923" y="151.5000000000001" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-11" value="Trading API" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;" parent="1" vertex="1">
+          <mxGeometry x="750" y="51.500000000000085" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" parent="1" source="v-nKt9xh3OP5M9767R_m-31" target="v-nKt9xh3OP5M9767R_m-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v-nKt9xh3OP5M9767R_m-31" value="ATOM Trading service" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;" parent="1" vertex="1">
+          <mxGeometry x="710" y="160.00000000000009" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MNASLZrVfX2XZWR_6Hok" name="ATOM Trading web">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RRF9_MBuPiH17IyI_tRf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRF9_MBuPiH17IyI_tRf-1" target="RRF9_MBuPiH17IyI_tRf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRF9_MBuPiH17IyI_tRf-1" value="ATOM Trading Web UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RRF9_MBuPiH17IyI_tRf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRF9_MBuPiH17IyI_tRf-3" target="RRF9_MBuPiH17IyI_tRf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRF9_MBuPiH17IyI_tRf-3" value="Common DLL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RRF9_MBuPiH17IyI_tRf-5" value="Trade Management" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RRF9_MBuPiH17IyI_tRf-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRF9_MBuPiH17IyI_tRf-7" target="RRF9_MBuPiH17IyI_tRf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRF9_MBuPiH17IyI_tRf-7" value="Trader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="o73aHLsx07TCO5RboHyY" name="Process Trade Screen">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yYHclZllUbW8fKWcgCkl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yYHclZllUbW8fKWcgCkl-1" target="yYHclZllUbW8fKWcgCkl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYHclZllUbW8fKWcgCkl-1" value="Process Trade UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yYHclZllUbW8fKWcgCkl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yYHclZllUbW8fKWcgCkl-2" target="yYHclZllUbW8fKWcgCkl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYHclZllUbW8fKWcgCkl-2" value="Process Trade Gateway" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yYHclZllUbW8fKWcgCkl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yYHclZllUbW8fKWcgCkl-4" target="yYHclZllUbW8fKWcgCkl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYHclZllUbW8fKWcgCkl-4" value="ATOM Trading Service" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yYHclZllUbW8fKWcgCkl-6" value="Trade management" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="680" y="330" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yYHclZllUbW8fKWcgCkl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yYHclZllUbW8fKWcgCkl-8" target="yYHclZllUbW8fKWcgCkl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYHclZllUbW8fKWcgCkl-8" value="Trader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MR8TtOvgv78hP3RqyYRi" name="Futures Uploader">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="owQCfjQRY_cIkLSSGUaz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owQCfjQRY_cIkLSSGUaz-1" target="owQCfjQRY_cIkLSSGUaz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owQCfjQRY_cIkLSSGUaz-1" value="Trader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="owQCfjQRY_cIkLSSGUaz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owQCfjQRY_cIkLSSGUaz-4" target="owQCfjQRY_cIkLSSGUaz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owQCfjQRY_cIkLSSGUaz-4" value="Futures UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="owQCfjQRY_cIkLSSGUaz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owQCfjQRY_cIkLSSGUaz-6" target="owQCfjQRY_cIkLSSGUaz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owQCfjQRY_cIkLSSGUaz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="owQCfjQRY_cIkLSSGUaz-6" target="owQCfjQRY_cIkLSSGUaz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owQCfjQRY_cIkLSSGUaz-6" value="Futures API" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="owQCfjQRY_cIkLSSGUaz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owQCfjQRY_cIkLSSGUaz-8" target="owQCfjQRY_cIkLSSGUaz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owQCfjQRY_cIkLSSGUaz-8" value="Trading API" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="owQCfjQRY_cIkLSSGUaz-10" value="Trade management" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="790" y="300" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aLKiJRDh8TK8u90CZVaW" name="Other uploaders">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9N0uGq4iL2PqgGzdjOla-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9N0uGq4iL2PqgGzdjOla-1" target="9N0uGq4iL2PqgGzdjOla-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9N0uGq4iL2PqgGzdjOla-1" value="Console EXE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9N0uGq4iL2PqgGzdjOla-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9N0uGq4iL2PqgGzdjOla-2" target="9N0uGq4iL2PqgGzdjOla-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9N0uGq4iL2PqgGzdjOla-2" value="Common DLL" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9N0uGq4iL2PqgGzdjOla-4" value="Trade management" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tYXK67Asmt_PO_gcWNlg" name="Blotter Uploader">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dM_6RZDbABrnzEoQBxWU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dM_6RZDbABrnzEoQBxWU-1" target="dM_6RZDbABrnzEoQBxWU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dM_6RZDbABrnzEoQBxWU-1" value="Blotter UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dM_6RZDbABrnzEoQBxWU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dM_6RZDbABrnzEoQBxWU-2" target="dM_6RZDbABrnzEoQBxWU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dM_6RZDbABrnzEoQBxWU-2" value="Common DLL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dM_6RZDbABrnzEoQBxWU-4" value="Trade manamement" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="310" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
