@@ -1,59 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T09:05:19.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="vN5s7HyIxxH_W76zToGu" version="17.4.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-06T09:08:16.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="1MeU9MsLc498-5Xoy9VP" version="17.4.0" type="github" pages="6">
   <diagram id="cdFLFHhvs3WtqILZuEGL" name="E Ticket">
     <mxGraphModel dx="2062" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v-nKt9xh3OP5M9767R_m-2" value="TradeManagement" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="750" y="490.0000000000001" width="60" height="80" as="geometry" />
+          <mxGeometry x="830" y="330.0000000000001" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HtuYZeyKh8xC5aCiNlH0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v-nKt9xh3OP5M9767R_m-3" target="v-nKt9xh3OP5M9767R_m-5">
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jmjf2LRsqeI03_Jn_jfG-1" target="Jmjf2LRsqeI03_Jn_jfG-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v-nKt9xh3OP5M9767R_m-3" value="Trader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="339.996266784668" width="30" height="60" as="geometry" />
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-1" value="E Ticket UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HtuYZeyKh8xC5aCiNlH0-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v-nKt9xh3OP5M9767R_m-5" target="v-nKt9xh3OP5M9767R_m-6">
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jmjf2LRsqeI03_Jn_jfG-2" target="Jmjf2LRsqeI03_Jn_jfG-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v-nKt9xh3OP5M9767R_m-5" value="E Ticket UI" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;" parent="1" vertex="1">
-          <mxGeometry x="200" y="339.996266784668" width="100" height="60" as="geometry" />
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-2" value="Trader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="179.99626678466802" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HtuYZeyKh8xC5aCiNlH0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v-nKt9xh3OP5M9767R_m-6" target="v-nKt9xh3OP5M9767R_m-9">
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jmjf2LRsqeI03_Jn_jfG-4" target="Jmjf2LRsqeI03_Jn_jfG-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v-nKt9xh3OP5M9767R_m-6" value="E Ticket Gateway" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;" parent="1" vertex="1">
-          <mxGeometry x="400" y="339.9941778564453" width="100" height="60" as="geometry" />
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-4" value="E Ticket Gateway" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v-nKt9xh3OP5M9767R_m-8" value="SSRS Report&amp;nbsp;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;" parent="1" vertex="1">
-          <mxGeometry x="560" y="240" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HtuYZeyKh8xC5aCiNlH0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v-nKt9xh3OP5M9767R_m-9" target="v-nKt9xh3OP5M9767R_m-11">
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jmjf2LRsqeI03_Jn_jfG-7" target="Jmjf2LRsqeI03_Jn_jfG-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HtuYZeyKh8xC5aCiNlH0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v-nKt9xh3OP5M9767R_m-9" target="v-nKt9xh3OP5M9767R_m-8">
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jmjf2LRsqeI03_Jn_jfG-7" target="Jmjf2LRsqeI03_Jn_jfG-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v-nKt9xh3OP5M9767R_m-9" value="E Ticket API" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;" parent="1" vertex="1">
-          <mxGeometry x="560" y="340" width="100" height="60" as="geometry" />
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-7" value="E Ticket API" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v-nKt9xh3OP5M9767R_m-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v-nKt9xh3OP5M9767R_m-10" target="v-nKt9xh3OP5M9767R_m-31" edge="1">
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jmjf2LRsqeI03_Jn_jfG-9" target="v-nKt9xh3OP5M9767R_m-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v-nKt9xh3OP5M9767R_m-10" value="Worflow engine" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;" parent="1" vertex="1">
-          <mxGeometry x="400" y="500.0000000000001" width="100" height="60" as="geometry" />
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-9" value="Trading API" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HtuYZeyKh8xC5aCiNlH0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v-nKt9xh3OP5M9767R_m-11" target="v-nKt9xh3OP5M9767R_m-2">
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-11" value="SSRS Report&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jmjf2LRsqeI03_Jn_jfG-13" target="Jmjf2LRsqeI03_Jn_jfG-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v-nKt9xh3OP5M9767R_m-11" value="Trading API" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;" parent="1" vertex="1">
-          <mxGeometry x="730" y="340.0000000000001" width="100" height="60" as="geometry" />
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-13" value="Worflow engine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HtuYZeyKh8xC5aCiNlH0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v-nKt9xh3OP5M9767R_m-31" target="v-nKt9xh3OP5M9767R_m-2">
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jmjf2LRsqeI03_Jn_jfG-14" target="v-nKt9xh3OP5M9767R_m-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v-nKt9xh3OP5M9767R_m-31" value="ATOM Trading service" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;" parent="1" vertex="1">
-          <mxGeometry x="560" y="500.0000000000001" width="100" height="60" as="geometry" />
+        <mxCell id="Jmjf2LRsqeI03_Jn_jfG-14" value="ATOM Trading service" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
